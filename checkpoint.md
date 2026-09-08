@@ -1,7 +1,3 @@
-![uppgiftens screen](https://github.com/hakufus/vecka-03/blob/main/showipdhcpbinding.png)
-![början](https://github.com/hakufus/vecka-03/blob/main/b%C3%B6rjanvlan4%201.png)
-![mer info](https://github.com/hakufus/vecka-03/blob/main/b%C3%B6rjanvlan4%202.png)
-![mer info](https://github.com/hakufus/vecka-03/blob/main/b%C3%B6rjanvlan4%203.png.png)
-![mer info](https://github.com/hakufus/vecka-03/blob/main/b%C3%B6rjanvlan4%204.png)
-
+![uppgiftens screen](https://github.com/hakufus/vecka-03/blob/main/ipbinding.png)
+![deny andra vlan än 10 att röra filserver](https://github.com/hakufus/vecka-03/blob/main/secureconfig.png)
 
