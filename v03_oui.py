@@ -2,7 +2,7 @@ import ipaddress
 
 # Byt ut mot det nät du vill räkna på.
 text = "192.168.1.128/25"
-#Provade 192.168.1.25/26 och denna.
+#Provade 192.168.1.100/26 och denna.
 
 # Modulen ipaddress gör räkningen åt dig.
 net = ipaddress.ip_network(text, strict=False)
