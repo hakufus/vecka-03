@@ -2,3 +2,4 @@
 !()[börjanvlan 2.png]
 !()[börjanvlan 3.png]
 !()[börjanvlan 4.png]
+!()[showipdhcpbinding.png]
