@@ -19,4 +19,11 @@ Din dator vill nå en server i ett annat land. Vilken MAC-adress
 frågar den efter, och varför?
 Din dator använder mac-adressen inom det lokala nätverket för att kommunicera inom nätverket. Utanför gatewayen är det din ip adress som körs.
 
+Sätt nu masken 255.255.255.0 på datorn i stället, men behåll adressen. Når
+den fortfarande gatewayen? Varför?
+Vi antar att datorn ligger inom det första intervallet i det delade nätverkets ipnummer. datorn kan göra en arp och få svar från gatewayen då den ligger inom samma nätverk. 255.255.255 är nätverket och .0 är host. så det går att skicka signalen till gateway.
+
+Ta bort gatewayen på datorn. Når den fortfarande servern i samma nät? Når
+den internet? Den när fortfarande servern men den kan  ej gå ut på internet.
+
 Idag är det kontrollfrågor och räkna subnet
